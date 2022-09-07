@@ -1,4 +1,7 @@
 # Project 5
+
+## Time Taken - about 1 hour
+
 This project was made in HTML & CSS.
 
 <br>
